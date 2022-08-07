@@ -1,4 +1,6 @@
 # Hangman game
+Do you like to play hangman game?
+Guess a letter to see whether this is the right word.
 You have 6 lives. Once you guess wrong, you will lose your life.
 
 ## files
